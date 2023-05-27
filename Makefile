@@ -1,4 +1,4 @@
-CFLAGS = -Wall -Wextra -std=c99 -pedantic
+CFLAGS = -Wall -Wextra -std=gnu99 -pedantic
 PREFIX = /usr/local
 LDFLAGS =
 
