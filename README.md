@@ -28,7 +28,7 @@ and permits to load new UF2 files that will program the flash chip.
 To install them:
 
 ```shell
-git clone https://github.com/josuah/uf2-utils/
+git clone https://github.com/tinyvision-ai-inc/uf2-utils.git
 cd uf2-utils && sudo make install
 ```
 
