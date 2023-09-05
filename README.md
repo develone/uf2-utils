@@ -10,7 +10,7 @@ pico-ice
 | [Assembly](https://htmlpreview.github.io/?https://github.com/tinyvision-ai-inc/pico-ice/blob/main/Board/Rev3/bom/ibom.html)
 | [Discord](https://discord.gg/t2CzbAYeD2)
 
-A toolbox for working with the UF2 format,
+A generic toolbox for working with the [UF2 format](https://github.com/microsoft/uf2),
 split out from the [`pico-ice-sdk`](https://pico-ice.tinyvision.ai/)
 from where they were first written.
 
