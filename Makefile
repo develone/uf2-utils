@@ -8,7 +8,7 @@ OBJ = $(SRC:.c=.o)
 
 all: $(BIN)
 
-install:
+install: $(BIN)
 	cp $(BIN) $(PREFIX)/bin
 
 clean:
