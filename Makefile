@@ -1,4 +1,4 @@
-CFLAGS = -Wall -Wextra -std=gnu99 -pedantic
+CFLAGS = -Wall -Wextra -std=gnu99 -pedantic -D_XOPEN_SOURCE=700
 PREFIX = /usr/local
 LDFLAGS =
 
